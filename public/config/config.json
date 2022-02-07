@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x251034cB1C1Fe88A2693015413C1835B49a86cc3",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x251034cb1c1fe88a2693015413c1835b49a86cc3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Krazy 8z_Bulls NFT",
+  "SYMBOL": "K8NFT",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/krazy-8z",
+  "SHOW_BACKGROUND": true
+}
